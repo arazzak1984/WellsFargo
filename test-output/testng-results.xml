@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Facebook Test Automation Test Suite" duration-ms="20182" started-at="2020-04-26T07:08:47Z" finished-at="2020-04-26T07:09:08Z">
+    <groups>
+    </groups>
+    <test name="Facebook App Test Cases" duration-ms="20182" started-at="2020-04-26T07:08:47Z" finished-at="2020-04-26T07:09:08Z">
+      <class name="com.fb.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.fb.qa.testcases.LoginPageTest@780cb77]" name="setUp" is-config="true" duration-ms="18072" started-at="2020-04-26T07:08:47Z" finished-at="2020-04-26T07:09:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginpageTest()[pri:0, instance:com.fb.qa.testcases.LoginPageTest@780cb77]" name="loginpageTest" duration-ms="1985" started-at="2020-04-26T07:09:06Z" finished-at="2020-04-26T07:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.fb.qa.testcases.LoginPageTest@780cb77]" name="tearDown" is-config="true" duration-ms="5" started-at="2020-04-26T07:09:08Z" finished-at="2020-04-26T07:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.fb.qa.testcases.LoginPageTest -->
+    </test> <!-- Facebook App Test Cases -->
+  </suite> <!-- Facebook Test Automation Test Suite -->
+</testng-results>
